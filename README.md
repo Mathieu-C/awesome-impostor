@@ -2,17 +2,20 @@
 
 A list aimed at self-taught developers, this theoretical knowledge is usually seen as universally relevant to the practice of software engineering.
 
+The content is displayed in an alphabetical manner with no specific implied order of priority.
+
 Contributions are welcomed.
 
 ## Contents
-- [Mathematics](#mathematics)
-- [Probabilities](#probabilities)
+- [Algorithms](#algorithms)
 - [Data structures](#data-structures)
 - [Design patterns](#design-patterns)
+- [Mathematics](#mathematics)
+- [Probability](#probability)
 
-## Mathematics
+## [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 
-## Probabilities
+An algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing, automated reasoning, and other tasks.
 
 ## [Data structures](https://en.wikipedia.org/wiki/Data_structure)
 
@@ -24,6 +27,10 @@ A software design pattern is a general, reusable solution to a commonly occurrin
 
 ### Books
 * [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns) a.k.a. Gang of Four (GoF)
+
+## Mathematics
+
+## Probability
 
 ## License
 
