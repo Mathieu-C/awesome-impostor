@@ -1,4 +1,4 @@
-# awesome-impostor
+# awesome-impostor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list aimed at self-taught developers, this theoretical knowledge is usually seen as universally relevant to the practice of software engineering.
 
