@@ -8,3 +8,4 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories must be sorted alphabetically.
 - Large scale improvements are welcomed but preferably discussed before in a dedicated issue with the `enhancement` label.
 - Recommended resources shall be in the english language exclusively.
+- Do not post links towards pirated materials.
