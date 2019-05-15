@@ -11,7 +11,6 @@ Contributions are welcomed.
 - [Data structures](#data-structures)
 - [Design patterns](#design-patterns)
 - [Mathematics](#mathematics)
-- [Probability](#probability)
 
 ## [Algorithms](https://en.wikipedia.org/wiki/Algorithm)
 
@@ -30,7 +29,8 @@ A software design pattern is a general, reusable solution to a commonly occurrin
 
 ## Mathematics
 
-## Probability
+### Books
+* [Mathematics for Computer Science (PDF)](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) 🆓
 
 ## License
 
